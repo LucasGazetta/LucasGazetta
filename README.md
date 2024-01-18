@@ -2,14 +2,14 @@
 
 I am a Full Stack Developer with approximately 3 years of experience, specializing in Node.js, Express.js, and Vue.js. Throughout my journey, I've gained hands-on knowledge working with AWS, MySQL, Python, MongoDB, and PostgreSQL.
 
-## About Me 🚀
+## About Me
 
 - 🌱 **Constant Learning:** Always seeking to improve my skills and embrace new technologies.
 - 💡 **Passionate About Development:** Fascinated by creating efficient and innovative solutions.
 - 🤝 **Love for Open Source:** Enthusiastic about contributing to and creating open-source projects.
 - 📫 **Contact:** lucasagazetta@gmail.com
 
-## My Skills 💻
+## My Skills
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -20,7 +20,7 @@ I am a Full Stack Developer with approximately 3 years of experience, specializi
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-✨ **Let's Connect!** ✨
+**Let's Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgazetta/)
 
