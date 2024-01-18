@@ -1,4 +1,4 @@
-# Hello, I'm Lucas Gazetta 👋
+# Hey, I'm Lucas Gazetta 👋
 
 I am a Full Stack Developer with approximately 3 years of experience, specializing in Node.js, Express.js, and Vue.js. Throughout my journey, I've gained hands-on knowledge working with AWS, MySQL, Python, MongoDB, and PostgreSQL.
 
